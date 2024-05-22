@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        // "*.js": "javascriptreact"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.formatOnSave": true,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "all"
+}
